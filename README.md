@@ -22,6 +22,13 @@ Este repositório contém o código-fonte de um aplicativo Android desenvolvido 
 
 ## Configuração do Ambiente
 
+Kivy: pip install kivy
+KivyMD: pip install kivymd
+Pyjnius: pip install pyjnius
+Buildozer: pip install buildozer
+pyCOLMAP: pip install pycolmap
+gpcc (Geometric Point Cloud Compression): 
+
 ## Como Usar
 
 ## Desenvolvimento Futuro
